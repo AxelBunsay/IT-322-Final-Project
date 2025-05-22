@@ -1,7 +1,6 @@
 import {BrowserRouter, Routes, Route, Navigate } from 'react-router-dom';
 import Login from '../pages/Admin/Login.jsx'
 import Dashboard from '../pages/Admin/Dashboard.jsx';
-import Reports from '../pages/Admin/Reports.jsx'
 import OnlineOrders from '../pages/Admin/OnlineOrders.jsx'
 import Settings from '../pages/Admin/settings.jsx'
 import POS from '../pages/Admin/POS.jsx'
@@ -16,6 +15,7 @@ import Password from '../pages/Customers/Password.jsx';
 import Orders from '../pages/Customers/Orders.jsx';
 import Orderhistory from '../pages/Customers/Orderhistory.jsx';
 import Notification from '../pages/Customers/Notification.jsx';
+import Reports from '../pages/Admin/Reports.jsx'; 
 
 
 
