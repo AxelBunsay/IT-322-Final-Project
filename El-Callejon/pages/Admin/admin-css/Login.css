@@ -1,12 +1,13 @@
 /* LOGIN STYLE */
 .logIn-page{
   background-color: #ECECEC;
-  width: 99vw;
+  width: 100vw;
   height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-image: linear-gradient(to bottom right, #e9c56a, rgba(79, 79, 57, 0.548));
 }
 
 .container {
@@ -100,7 +101,7 @@
   font-size: 16px;
   color: black;
   padding-top: 30px;
-  padding-left: 330px;
+  padding-left: 388px;
   text-decoration: none;
 }
 
